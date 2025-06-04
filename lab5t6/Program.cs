@@ -1,0 +1,32 @@
+﻿namespace lab5t6
+{
+    internal class Program
+    {
+        static int Square(int n)
+        {
+            int sum = 0;
+            for (int i = 1; i <= 2 * n - 1; i += 2)
+            {
+                sum += i;
+            }
+            return sum;
+        }
+
+        static int SumOfSqr(int n)
+        {
+            int sum = 0;
+            for (int i = 1; i <= n; i++)
+            {
+                sum += Square(i);
+            }
+            return sum;
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine(SumOfSqr(10));
+            Console.WriteLine("Нажмите любую клвашишу для завершения...");
+            Console.ReadKey();
+        }
+    }
+}
