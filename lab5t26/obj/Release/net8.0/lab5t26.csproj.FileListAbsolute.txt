@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab5\lab5t26\bin\Release\net8.0\lab5t26.exe
+C:\Users\vinil\source\repos\lab5\lab5t26\bin\Release\net8.0\lab5t26.deps.json
+C:\Users\vinil\source\repos\lab5\lab5t26\bin\Release\net8.0\lab5t26.runtimeconfig.json
+C:\Users\vinil\source\repos\lab5\lab5t26\bin\Release\net8.0\lab5t26.dll
+C:\Users\vinil\source\repos\lab5\lab5t26\bin\Release\net8.0\lab5t26.pdb
+C:\Users\vinil\source\repos\lab5\lab5t26\obj\Release\net8.0\lab5t26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab5\lab5t26\obj\Release\net8.0\lab5t26.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab5\lab5t26\obj\Release\net8.0\lab5t26.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab5\lab5t26\obj\Release\net8.0\lab5t26.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab5\lab5t26\obj\Release\net8.0\lab5t26.dll
+C:\Users\vinil\source\repos\lab5\lab5t26\obj\Release\net8.0\refint\lab5t26.dll
+C:\Users\vinil\source\repos\lab5\lab5t26\obj\Release\net8.0\lab5t26.pdb
+C:\Users\vinil\source\repos\lab5\lab5t26\obj\Release\net8.0\lab5t26.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab5\lab5t26\obj\Release\net8.0\ref\lab5t26.dll
