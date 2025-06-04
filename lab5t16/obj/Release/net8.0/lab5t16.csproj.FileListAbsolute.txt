@@ -1,0 +1,4 @@
+C:\Users\vinil\source\repos\lab5\lab5t16\obj\Release\net8.0\lab5t16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab5\lab5t16\obj\Release\net8.0\lab5t16.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab5\lab5t16\obj\Release\net8.0\lab5t16.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab5\lab5t16\obj\Release\net8.0\lab5t16.csproj.CoreCompileInputs.cache
