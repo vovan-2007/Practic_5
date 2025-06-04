@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab5\lab5t24\bin\Release\net8.0\lab5t24.exe
+C:\Users\vinil\source\repos\lab5\lab5t24\bin\Release\net8.0\lab5t24.deps.json
+C:\Users\vinil\source\repos\lab5\lab5t24\bin\Release\net8.0\lab5t24.runtimeconfig.json
+C:\Users\vinil\source\repos\lab5\lab5t24\bin\Release\net8.0\lab5t24.dll
+C:\Users\vinil\source\repos\lab5\lab5t24\bin\Release\net8.0\lab5t24.pdb
+C:\Users\vinil\source\repos\lab5\lab5t24\obj\Release\net8.0\lab5t24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab5\lab5t24\obj\Release\net8.0\lab5t24.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab5\lab5t24\obj\Release\net8.0\lab5t24.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab5\lab5t24\obj\Release\net8.0\lab5t24.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab5\lab5t24\obj\Release\net8.0\lab5t24.dll
+C:\Users\vinil\source\repos\lab5\lab5t24\obj\Release\net8.0\refint\lab5t24.dll
+C:\Users\vinil\source\repos\lab5\lab5t24\obj\Release\net8.0\lab5t24.pdb
+C:\Users\vinil\source\repos\lab5\lab5t24\obj\Release\net8.0\lab5t24.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab5\lab5t24\obj\Release\net8.0\ref\lab5t24.dll
